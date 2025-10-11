@@ -1,0 +1,6 @@
+logs/
+restic.env
+backup-excludes.txt
+backup-includes.txt
+pre-tasks.sh
+post-tasks.sh

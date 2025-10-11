@@ -1,0 +1,3 @@
+# Files and folders to be backed up
+# https://restic.readthedocs.io/en/latest/index.html
+/home/$USER

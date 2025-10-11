@@ -1,0 +1,4 @@
+# Files and folders to be ignored
+# https://restic.readthedocs.io/en/latest/index.html
+/home/$USER/.cache/**
+/home/$USER/backups
